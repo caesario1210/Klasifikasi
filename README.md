@@ -1,3 +1,8 @@
+# Kelompok 10
+Ridho Farizqi (A12.2022.06867)
+Dhea Maharani (A12.2022.06900)
+Caesario Gumilang F (A12.2022.06910)
+
 # 🎯 Klasifikasi Prediksi Langganan Nasabah Bank
 
 Repositori ini merupakan proyek data science yang bertujuan untuk memprediksi apakah seorang nasabah akan berlangganan produk deposito berjangka (term deposit) dari sebuah bank. Model klasifikasi yang digunakan berbasis *Decision Tree*, dengan aplikasi berbasis **Streamlit** untuk visualisasi prediksi secara interaktif.
