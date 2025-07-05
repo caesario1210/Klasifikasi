@@ -5,7 +5,7 @@ Repositori ini merupakan proyek data science yang bertujuan untuk memprediksi ap
 ---
 
 ## 🧠 Dataset
-Dataset yang digunakan adalah `bank_marketing.csv`, berisi data pemasaran melalui telepon dari sebuah bank di Portugal.
+Dataset yang digunakan adalah `bank_marketing.csv`, berisi data pemasaran dari sebuah bank.
 
 **Fitur dalam dataset:**
 - `age`: Umur nasabah
