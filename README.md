@@ -42,7 +42,8 @@ Dataset yang digunakan adalah `bank_marketing.csv`, berisi data pemasaran melalu
 .
 ├── streamlit_subscribe_app.py         # Aplikasi utama Streamlit
 ├── bank_marketing.csv                 # Dataset utama
-├── _034411_dt_tuned_comps.joblib      # Model alternatif (tuning)
+├── y_prediction_components.joblib     # Model tanpa Hyperparameter
+├── _034411_dt_tuned_comps.joblib      # Model dengan Hyperparameter
 ├── feature_importance.png             # Visualisasi fitur penting
 ├── histogramafter_coding.png          # Histogram fitur setelah preprocessing
 ├── requirements.txt                   # Dependensi Python
