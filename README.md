@@ -1,7 +1,7 @@
 # Kelompok 10
-Ridho Farizqi (A12.2022.06867)
-Dhea Maharani (A12.2022.06900)
-Caesario Gumilang F (A12.2022.06910)
+- Ridho Farizqi (A12.2022.06867)
+- Dhea Maharani (A12.2022.06900)
+- Caesario Gumilang F (A12.2022.06910)
 
 # 🎯 Klasifikasi Prediksi Langganan Nasabah Bank
 
