@@ -44,6 +44,7 @@ Dataset yang digunakan adalah `bank_marketing.csv`, berisi data pemasaran melalu
 ├── bank_marketing.csv                 # Dataset utama
 ├── _034411_dt_tuned_comps.joblib      # Model alternatif (tuning)
 ├── feature_importance.png             # Visualisasi fitur penting
+├── histogramafter_coding.png          # Histogram fitur setelah preprocessing
 ├── requirements.txt                   # Dependensi Python
 ├── README.md                          # Dokumentasi proyek ini
 └── myenv/                             # (Opsional) Lingkungan virtual
